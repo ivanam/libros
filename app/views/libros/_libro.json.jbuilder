@@ -1,0 +1,1 @@
+json.extract! libro, :id, :titulo, :autor, :leido
